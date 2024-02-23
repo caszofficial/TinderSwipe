@@ -14,5 +14,4 @@ _FullStack Web Developer_
 
 santiagozapata07@gmail.com
 
-<a href="https://www.linkedin.com/in/santiagocanas/"
- style="margin-right:20px;">LinkedIn<a/> <a href="">Web Portfolio</a>
+<a href="https://www.linkedin.com/in/santiagocanas/" target="blank"></a>LinkedIn<a/> <a href="" target="blank">Web Portfolio</a>
