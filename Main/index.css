@@ -204,3 +204,40 @@ footer {
     }
   }
 }
+
+.page-title {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  color: #ff6e63;
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: #ff6d63be;
+  }
+}
+.madeBy {
+  position: absolute;
+  left: 50px;
+  bottom: 20px;
+  color: #777;
+}
+
+.page-footer {
+  font-size: 18px;
+  position: absolute;
+  bottom: 20px;
+  right: 50px;
+
+  & a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #777;
+    transition: color 0.3s ease, font-size 0.3s ease;
+
+    &:hover {
+      color: #000;
+      font-size: 20px;
+    }
+  }
+}
