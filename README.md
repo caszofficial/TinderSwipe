@@ -1,5 +1,7 @@
 # Tinder Swipe
 
+!["Tinder Swipe Preview](/tinder-swipe-preview.webp)
+
 This is a Tinder Swipe copy created with `HTML, CSS and Vanilla JavaScript` this is part of midudev(Tech Content Creator) 100 JavaScript projects
 
 ### **Santiago Cañas Zapata**
